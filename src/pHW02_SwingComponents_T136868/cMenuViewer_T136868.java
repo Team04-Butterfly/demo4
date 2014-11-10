@@ -39,7 +39,7 @@ public class cMenuViewer_T136868 extends JFrame {
 	private static JRadioButton optbun09 = new JRadioButton("bun nem nuong");
 	private static JRadioButton optbun10 = new JRadioButton("bun bap bo");
 	private static JRadioButton optbun11 = new JRadioButton("bun bo gio gan");
-	private static JRadioButton optbun12 = new JRadioButton("bun thit nuong");
+	private static JRadioButton optbun12 = new JRadioButton("bun chả");
 	private static ButtonGroup groupButton = new ButtonGroup();
 	private static ImageIcon[] arrayhinh = new ImageIcon[12];
 	private static JLabel lblhinh = new JLabel();
